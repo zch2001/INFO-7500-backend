@@ -1,6 +1,6 @@
 [![Build and Push Docker Image](https://github.com/zch2001/INFO-7500-backend/actions/workflows/makefile.yml/badge.svg)](https://github.com/zch2001/INFO-7500-backend/actions/workflows/makefile.yml)
 
-# BitcoinExplorer
+# BitcoinExplorer-Backend
 a backend application to provide metrics and data from database
 
 ### Build Process
